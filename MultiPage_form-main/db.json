@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Roshan Rajesh Indane",
+      "age": "23",
+      "date_of_birth": "1998-06-07",
+      "state_of_residence": "Maharashtra",
+      "address": "A-406, vaastu viva, near bhumkar chowk, wakad, pimpri chichwad, pune.",
+      "pin_code": "411057",
+      "id": 1
+    }
+  ]
+}
